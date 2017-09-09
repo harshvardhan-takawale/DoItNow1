@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Do it Now</string>
+    <string name="questions">What are you supposed to be doing now?</string>
+    <string name="partofanswer">I am supposed to be</string>
+    <string name="watering_plants">i am supposed to be <b>watering plants</b> now</string>
+    <string name="activityname">Type in name of activity you are doing now</string>
+</resources>
